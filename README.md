@@ -7,4 +7,4 @@ Run the application by running the file Main_App.pyw
 * sqlite3 (database management system)
 * bs4 (beautiful soup, parsing html and xml documents)
 ### Installation
-All wheel files for python3 can be found at https://www.lfd.uci.edu/~gohlke/pythonlibs/
+All wheel files for python3 modules above can be found at https://www.lfd.uci.edu/~gohlke/pythonlibs/
