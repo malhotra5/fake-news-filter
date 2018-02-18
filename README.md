@@ -26,7 +26,7 @@ Run the file Main_App.pyw
 Once the url is entered, the application formats it. \
 Then, the application uses a database of fake and real websites. If the url is found in the database, it outputs the result accordingly (either fake or real).\
 If the url does not exist in the database, the application uses bs4 to download the html code for the entered url. \
-The application gets <a> tags. This is to get all the references for the website. \
+The application gets all the <a> tags. This is to get all the references for the website. \
 The references are cross checked in the fake url database. \
 If any of the references are fake, the url entered is appended to the fake url database. The application returns fake as it's output. \
 If none of the references are fake, the application's output states that it can't tell whether the url entered is fake or real.  
