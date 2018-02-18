@@ -14,7 +14,7 @@ Once the wheel files are downloaded, run the command below for every wheel file.
 
     pip install WheelFileName.whl 
 
-or else 
+Alternative 
     
     pip install bs4 
     pip install sqlite3 
@@ -23,5 +23,6 @@ or else
 ## Running the application
 Run the file Main_App.pyw
 ### Results
+
 
 
