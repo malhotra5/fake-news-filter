@@ -1,2 +1,2 @@
-# fake-news-filter
+# Fake News Filter 
 An application to detect fake and untrustworthy websites
