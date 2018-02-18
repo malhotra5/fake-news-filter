@@ -23,9 +23,13 @@ Alternative
 ## Running the application
 Run the file Main_App.pyw
 ### Results
+How the application looks
+![GitHub Logo](/Results/options.jpg)
+
+Application outputs
 ![GitHub Logo](/Results/RealOutput.jpg)
 ![GitHub Logo](/Results/FakeOutput.jpg)
-![GitHub Logo](/Results/options.jpg)
+
 
 
 
