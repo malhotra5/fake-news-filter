@@ -11,8 +11,10 @@ Run the application by running the file Main_App.pyw
 ### Installation
 All wheel files for python3 modules above can be found at https://www.lfd.uci.edu/~gohlke/pythonlibs/ \
 Once the wheel files are downloaded, run the command below for every wheel file. \
+"""
     pip install WheelFileName.whl \
+"""
 or else \
     pip install bs4 \
     pip install sqlite3 \
-    pip install pyqt4 \
+    pip install pyqt4 
