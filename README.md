@@ -19,3 +19,9 @@ or else
     pip install bs4 
     pip install sqlite3 
     pip install pyqt4 
+    
+## Running the application
+Run the file Main_App.pyw
+### Results
+
+
