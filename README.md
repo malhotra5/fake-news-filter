@@ -40,7 +40,7 @@ Application outputs \
 ![GitHub Logo](/Results/FakeOutput.jpg)
 
 ## Built with
-* Python
+* Python3
 * DB browser for sqlite (for visualizing the database)
 * Exel (for making list of fake and real website)
 ## Acknowledgments
